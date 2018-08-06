@@ -1,0 +1,534 @@
+
+20070308,Dương,Công,Chinh,19.04.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20070668,Ngô,Văn,Dự,29.08.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20050563,Lê,Tiến,Dũng,06.12.1986,Động cơ K52,ĐCĐT-2007,574,Động cơ K52,Viện Cơ khí Động lực,52
+20070581,Nguyễn,Trung,Dũng,06.05.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20070513,Nguyễn,Thế,Duy,06.07.1989,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20060539,Nguyễn,Văn,Duyên,14.07.1988,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20070770,Tạ,Cao,Định,11.02.1986,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20050874,Nguyễn,Đăng,Đức,12.07.1987,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20070868,Nguyễn,Văn,Đức,12.09.1988,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20070821,Lưu,Quang,Đường,02.06.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20060939,Phạm,Văn,Hai,28.07.1988,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20061128,Đỗ,Xuân,Hiếu,20.05.1988,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20073655,Phạm,Đức,Hiếu,06.03.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20071261,Trần,Khắc,Hoàng,20.12.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20061337,Lê,Tiến,Hợi,10.12.1983,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20061348,Nguyễn,Văn,Huân,30.06.1987,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20071375,Hà,Mạnh,Hùng,08.11.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20071418,Nguyễn,Xuân,Hùng,11.06.1990,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20071468,Nguyễn,Quang,Hưng,19.09.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20071487,Phạm,Văn,Hưng,25.01.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20071542,Nguyễn,Đức,Khánh,16.03.1988,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20071586,Nguyễn,Văn,Khuyến,27.04.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20061990,Cù,Bảo,Lộc,06.12.1987,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20071865,Lê,Văn,Lương,01.05.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20072024,Nguyễn,Đăng,Nam,04.12.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20073732,Nguyễn,Giang,Nam,22.01.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20072033,Nguyễn,Thành,Nam,23.01.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20062531,Đoàn,Đức,Quân,29.09.1987,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20062590,Đỗ,Trọng,Quyết,&nbsp;,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20073794,Nguyễn,Văn,Sơn,19.03.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20072860,Bùi,Cao,Tiến,08.12.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20072945,Nguyễn,Văn,Toàn,05.02.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20073224,Thân,Văn,Tuấn,22.10.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20063544,Nguyễn,Văn,Tuế,22.11.1988,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20063596,Hoàng,Thanh,Tùng,05.07.1987,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20063619,Nguyễn,Mạnh,Tùng,02.09.1986,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20063567,Nguyễn,Văn,Tuyền,30.07.1987,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20072634,Nguyễn,Ngọc,Thái,14.05.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20063034,Phùng,Văn,Thiện,10.12.1986,Động cơ K52,ĐCĐT-2007,573,Động cơ K52,Viện Cơ khí Động lực,52
+20072743,Nguyễn,Lê,Thìn,22.04.1988,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20073033,Nguyễn,Công,Trung,03.01.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20073080,Hà,Ngọc,Trường,15.11.1989,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20073472,Vũ,Đức,Việt,03.08.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20073484,Nguyễn,An,Vinh,04.06.1989,Động cơ K52,ĐC ĐHCQ 2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20073496,Tạ,Văn,Vinh,05.08.1989,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20053906,Đinh,Mạnh,Vũ,04.01.1985,Động cơ K52,ĐCĐT-2007,576,Động cơ K52,Viện Cơ khí Động lực,52
+20073531,Phạm,Minh,Vụ,26.07.1989,Động cơ K52,ĐCĐT-2007,578,Động cơ K52,Viện Cơ khí Động lực,52
+20050187,Trịnh,Đình,Biển,08.10.1987,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20070410,Lê,Cao,Cường,01.07.1987,Ô tô A K52,Ôtô&amp;XCD-2007,573,Ô tô A K52,Viện Cơ khí Động lực,52
+20070421,Nguyễn,Đức,Cường,14.04.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20070451,Nguyễn,Viết,Cường,03.06.1989,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20070738,Đỗ,Hồng,Đăng,15.02.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20070757,Đoàn,Vũ,Điệp,30.11.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20060840,Dương,Văn,Đức,12.04.1988,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20070863,Nguyễn,Quang,Đức,29.10.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20070036,Phạm,Văn,Đức,20.11.1988,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20060892,Trần,Trung,Đức,25.07.1987,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20060923,Phan,Thành,Giang,25.06.1987,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20071083,Đoàn,Minh,Hiến,04.03.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071159,Ngô,Tiến,Hiệp,01.01.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071227,Đỗ,Văn,Hoàng,13.11.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071284,Lê,Huy,Hồng,15.05.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071371,Đặng,Văn,Hùng,26.06.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20061450,Đỗ,Nguyễn,Hùng,11.06.1988,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071416,Nguyễn,Việt,Hùng,18.11.1988,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20041513,Trịnh,Xuân,Hùng,16.01.1986,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071520,Phan,Đức,Hữu,12.06.1989,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20071314,Đỗ,Nhật,Huy,02.07.1989,Ô tô A K52,Ôtô&amp;XCD-2007,574,Ô tô A K52,Viện Cơ khí Động lực,52
+20071334,Nguyễn,Văn,Huy,28.06.1989,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20071630,Trần,Duy,Kiên,05.04.1989,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20071739,Phạm,Xuân,Linh,25.09.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20071792,Nguyễn,Triều,Long,28.08.1989,Ô tô A K52,ĐC ĐHCQ 2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20072234,Nguyễn,Đặng,Phúc,07.02.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072349,Nguyễn,Xuân,Quê,08.02.1989,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20072475,Trần,Công,Sơn,02.03.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072540,Nguyễn,Văn,Tập,08.03.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072522,Đặng,Khánh,Tân,28.12.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20063237,Vương,Văn,Tín,08.07.1988,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20063246,Bùi,Lê Duy,Toàn,27.03.1988,Ô tô A K52,Ôtô&amp;XCD-2007,576,Ô tô A K52,Viện Cơ khí Động lực,52
+20072954,Trần,Ngọc,Toàn,19.04.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073871,Nguyễn,Ngọc,Tuấn,27.08.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073228,Trần,Quang,Tuấn,22.10.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073313,Lưu,Quang,Tùng,22.12.1988,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072681,Nguyễn,Đắc,Thắng,11.06.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072614,Trần,Hợp,Thành,04.11.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072721,Lê,Duy,Thi,13.07.1989,Ô tô A K52,Ôtô&amp;XCD-2007,574,Ô tô A K52,Viện Cơ khí Động lực,52
+20072797,Phạm,Văn,Thuật,04.02.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20072857,Nguyễn,Ngọc,Thức,07.07.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073854,Cao,Văn,Trọng,06.08.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073009,Ngô,Bình,Trọng,20.06.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073494,Phạm,Văn,Vinh,02.09.1988,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20073899,Lê,Đình,Vũ,26.10.1989,Ô tô A K52,Ôtô&amp;XCD-2007,578,Ô tô A K52,Viện Cơ khí Động lực,52
+20060023,Bùi,Tuấn,Anh,24.05.1988,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20060192,Hoàng,Văn,Biền,11.07.1987,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,578,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20050297,Vũ,Đức,Chính,03.09.1987,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20040531,Cao,Việt,Dũng,&nbsp;,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20060599,Nguyễn,Tiến,Dũng,26.10.1988,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20060808,Đỗ,Văn,Đô,24.04.1987,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,571,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20060867,Nguyễn,Minh,Đức,31.03.1988,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,574,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20050972,Nguyễn,Văn,Hai,12.08.1986,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20051066,Nguyễn,Đình,Hải,10.09.1987,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20061687,Nguyễn,Tuấn,Khương,01.06.1988,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20061847,Phạm,Văn,Linh,22.05.1988,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20062115,Nguyễn,Đức,Minh,27.05.1988,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20062365,Giáp,Hoàng,Phong,07.03.1987,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20062515,Vũ,Văn,Quang,29.12.1987,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20053578,Hoàng,Văn,Tuấn,22.12.1986,CN Nhuộm &amp; Hoàn tất K52,ĐC ĐHCQ 2007,576,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20063035,Trần,Bá,Thiện,22.08.1988,CN Nhuộm &amp; Hoàn tất K52,CN Nhuộm-2007,578,CN Nhuộm &amp; Hoàn tất K52,Viện Dệt may - Da giầy và Thời trang,52
+20070208,Phạm,Văn,Bắc,20.01.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070264,Lê,Xuân,Cao,12.12.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070427,Nguyễn,Mạnh,Cường,09.06.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070318,Phạm,Xuân,Chính,23.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070663,Vũ,Quý,Dương,14.06.1989,HT Điện 3 K52,HTĐ-2007,576,HT Điện 3 K52,Viện Điện,52
+20070704,Bùi,Mạnh,Đạt,24.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070967,Vũ,Thanh,Hà,13.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20061063,Trịnh,Ngọc,Hải,24.08.1988,HT Điện 3 K52,HTĐ-2007,576,HT Điện 3 K52,Viện Điện,52
+20071207,Nguyễn,Văn,Hoà,16.01.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071189,Hoàng,Tiến,Hoan,23.11.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20051339,Nguyễn,&nbsp;,Hoàng,15.12.1987,HT Điện 3 K52,HTĐ-2007,576,HT Điện 3 K52,Viện Điện,52
+20071270,Dương,Văn,Hoạt,23.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071433,Trần,Mĩ,Hùng,03.10.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071357,Ngô,Gia,Huyến,27.12.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071353,Nguyễn,Thị Minh,Huyền,26.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071494,Vũ,Hữu,Hưng,05.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073693,Nguyễn,Phương,Khang,10.06.1988,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071690,Dương,Hoàng,Liên,28.11.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073722,Nguyễn,Bá,Lợi,13.09.1989,HT Điện 3 K52,ĐC ĐHCQ 2007,576,HT Điện 3 K52,Viện Điện,52
+20071919,Nguyễn,Văn,Mạnh,09.02.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20071949,Mai,Huy,Minh,06.10.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072072,Đinh,Thành,Nghĩa,14.12.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072095,Trần,Thị,Ngoan,20.02.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20042152,Lê,Anh,Ngọc,21.10.1985,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072284,Phạm,Hữu,Phước,23.12.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20062528,Đặng,Trần,Quân,30.10.1987,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072321,Hoàng,Văn,Quân,09.11.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072364,Nguyễn,Văn,Quyền,01.07.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072367,Vũ,Duy,Quyền,03.07.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20052698,Dương,Ngọc,Quỳnh,05.09.1987,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20042582,Nguyễn,Quang Bắc,Sơn,15.04.1986,HT Điện 3 K52,ĐC ĐHCQ 2007,576,HT Điện 3 K52,Viện Điện,52
+20072489,Nguyễn,Văn,Sự,06.08.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072910,Nguyễn,Văn,Tiệp,01.01.1988,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20076241,Hoàng,Ngọc,Tú,23.11.1986,HT Điện 3 K52,HTĐ (CH)-2007,578,HT Điện 3 K52,Viện Điện,52
+20073371,Nguyễn,Anh,Tú,04.11.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070011,Nguyễn,Quang,Tú,02.05.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20076236,Chu,Minh,Tuấn,18.10.1982,HT Điện 3 K52,HTĐ (CH)-2007,571,HT Điện 3 K52,Viện Điện,52
+20063447,Hoàng,Anh,Tuấn,14.12.1987,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073220,Phạm,Xuân,Tuấn,07.03.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073308,Lê,Thanh,Tùng,15.12.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073316,Ngô,Minh,Tùng,10.11.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073343,Phạm,Thanh,Tùng,16.09.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20062910,Ngô,Vĩnh,Thái,07.09.1988,HT Điện 3 K52,ĐC ĐHCQ 2007,576,HT Điện 3 K52,Viện Điện,52
+20072686,Nguyễn,Ngọc,Thắng,01.01.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20072642,Hoàng,Minh,Thảo,05.02.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073830,Nguyễn,Anh,Thìn,17.09.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20063106,Lê,Trọng,Thuận,10.11.1988,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20076232,Lê,Như,Triều,06.06.1986,HT Điện 3 K52,HTĐ (CH)-2007,578,HT Điện 3 K52,Viện Điện,52
+20073074,Bùi,Văn,Trường,05.06.1988,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073866,Trần,Xuân,Trường,07.12.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20073516,Nguyễn,Bá,Vũ,05.11.1989,HT Điện 3 K52,HTĐ-2007,578,HT Điện 3 K52,Viện Điện,52
+20070060,Cát,Văn Tuấn,Anh,06.04.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070201,Đào,Văn,Bắc,13.03.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070177,Hoàng,Tùng,Bách,21.10.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20060430,Nguyễn,Hùng,Cường,19.08.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070466,Vũ,Cao,Cường,20.11.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070535,Chu,Triệu,Dũng,04.06.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070615,Trần,Văn,Dũng,04.10.1987,Điện tử Y sinh K52,ĐTYS-2007,571,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070641,Nguyễn,Đức,Dương,21.04.1989,Điện tử Y sinh K52,ĐTYS-2007,574,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070658,Phạm,Đỗ,Dương,24.10.1989,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070689,Nguyễn,Văn,Đại,21.10.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20060730,Nguyễn,Duy,Đạt,06.11.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20060754,La,Văn,Đăng,10.06.1988,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20060795,Trương,Công,Định,04.08.1988,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070800,Nguyễn,Văn,Đông,14.12.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20070888,Lưu,Thị,Ghi,21.03.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20061005,Đặng,Thái,Hải,19.03.1988,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071042,Nguyễn,Văn,Hảo,02.01.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071077,Nguyễn,Tiến,Hiền,10.08.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071146,Trương,Thế,Hiển,28.09.1990,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071158,Lưu,Văn,Hiệp,03.06.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071160,Nguyễn,Danh,Hiệp,20.04.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071134,Trịnh,Trung,Hiếu,30.04.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071273,Phí,Văn,Hoè,25.08.1989,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071376,Hà,Trọng,Hùng,21.02.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071392,Ngô,Văn,Hùng,17.04.1989,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071446,Đinh,Phú,Hưng,23.06.1989,Điện tử Y sinh K52,ĐTYS-2007,574,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071449,Khương,Xuân,Hưng,24.10.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071474,Nguyễn,Thành,Hưng,20.12.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071622,Phạm,Hùng,Kiên,25.03.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073702,Lê,Ngọc,Kỷ,01.12.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071575,Vũ,Đăng,Khoa,28.10.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071576,Đinh,Văn,Khoái,15.09.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20061844,Nguyễn,Viết,Linh,28.12.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071967,Nguyễn,Văn,Minh,12.08.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20071997,Đăng,Sơn,Nam,04.01.1990,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072053,Hà,Văn,Năng,13.08.1988,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072085,Triệu,Tuấn,Nghĩa,19.02.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072251,Đỗ,Xuân,Phương,19.03.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072331,Nguyễn,Hồng,Quân,20.12.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072386,Phan,Văn,Quyết,19.08.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072413,Nguyễn,Văn,San,11.10.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20052715,Nguyễn,Thanh,Sang,28.01.1987,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072490,Bùi,Văn,Sỹ,12.08.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20062750,Nguyễn,Kim,Tài,05.01.1987,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072926,Nguyễn,Nhân,Tĩnh,08.05.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20063676,Lương,Anh,Tú,05.11.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073367,Lương,Quang,Tú,17.07.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073127,Đàm,Thanh,Tuấn,17.09.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073154,Lê,Đăng,Tuấn,04.06.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20063471,Ngô,Quý,Tuấn,07.12.1988,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073189,Nguyễn,Lệnh,Tuấn,13.10.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073193,Nguyễn,Minh,Tuấn,06.02.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073214,Phạm,Hữu,Tuấn,22.08.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073209,Phan,Anh,Tuấn,26.06.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20053640,Trần,Anh,Tuấn,&nbsp;,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20063521,Trần,Anh,Tuấn,31.03.1987,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20053657,Vũ,Ngọc,Tuấn,07.08.1986,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073349,Trần,Bá,Tùng,03.11.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073250,Nguyễn,Hải,Tuyên,25.08.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072565,Nguyễn,Hữu,Thao,10.05.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20072817,Lê,Thị,Thuỷ,26.02.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073051,Phan,Chính,Trung,29.08.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20063367,Trần,Đức,Trung,19.02.1985,Điện tử Y sinh K52,ĐTYS-2007,576,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20073532,Bùi,Minh,Vương,02.07.1989,Điện tử Y sinh K52,ĐTYS-2007,578,Điện tử Y sinh K52,Viện Điện tử - Viễn thông,52
+20076249,Đặng,Mai,Anh,18.07.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076252,Nguyễn,Ngọc,Anh,03.06.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070110,Nguyễn,Tiến,Anh,19.05.1989,Quản trị Tài chính K52,ĐC ĐHCQ 2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076253,Trịnh,Việt,Anh,30.07.1986,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076254,Trương,Quỳnh,Anh,16.03.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20060142,Vũ,Ngọc,Anh,29.03.1984,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076255,Tăng,Nguyệt,Ánh,04.02.1989,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070250,Nguyễn,Thị,Bích,01.03.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070238,Nguyễn,Văn,Bình,07.05.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070407,Hà,Mạnh,Cường,28.09.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20060438,Nguyễn,Thăng,Cường,04.09.1987,Quản trị Tài chính K52,TCKT-2007,571,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076257,Đoàn,Mạnh,Châu,17.04.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070285,Nguyễn,Văn,Chi,16.02.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076112,Nguyễn,Tá,Chung,20.11.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20060547,Cao,Văn,Dũng,07.02.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070515,Nguyễn,Tư,Duy,10.10.1989,Quản trị Tài chính K52,ĐC ĐHCQ 2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076261,Nguyễn,Thuỳ,Dương,06.09.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073623,Phạm,Văn,Đạt,09.10.1989,Quản trị Tài chính K52,TCKT-2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076263,Khổng,Viết,Đoàn,07.12.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076266,Lã ,Thị Thu,Giang,24.10.1983,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076267,Trần ,Thị Thu,Giang,04.05.1988,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076268,Vũ ,Thị Hương,Giang,12.08.1988,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076269,Bùi,Thanh,Hà,22.03.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076270,Đàm,Việt,Hà,11.10.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070952,Nguyễn,Nam,Hà,29.08.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076273,Nguyễn,Thị,Hà,06.11.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076274,Nguyễn,Thu,Hà,05.05.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076275,Nguyễn,Vân,Hà,10.07.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076276,Phạm,Thị,Hà,23.04.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076003,Trần,Hoàng,Hà,24.12.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076277,Đào,Thị Thanh,Hải,11.11.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20061026,Nguyễn,Bá,Hải,22.02.1985,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076280,Chu,Hồng,Hạnh,18.03.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20061081,Trần,Thái,Hạnh,24.09.1987,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076282,Trần,Thị,Hạnh,30.04.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076283,Trương,Thị,Hạnh,05.10.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070975,Phan,Đình,Hào,02.08.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076279,Nguyễn,Thị,Hảo,12.11.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076285,Phạm,Thu,Hiền,03.05.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076286,Trịnh,Bích,Hiền,09.07.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20061166,Phan,Trung,Hiếu,15.05.1987,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076287,Lê,Thị,Hoa,02.06.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20071198,Lê,Thị Ngọc,Hoà,26.10.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20051346,Nguyễn,Huy,Hoàng,10.05.1986,Quản trị Tài chính K52,ĐC ĐHCQ 2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20071303,Nguyễn,Văn,Huế,03.11.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076291,Lê,Thị,Huệ,13.10.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076292,Phạm,Thị,Huệ,10.02.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076295,Lê,Thanh,Huyền,27.07.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+2006C465,Phạm,Thuý,Hường,05.10.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076297,Đinh,Thị Thanh,Hương,22.12.1985,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076298,Lê,Thu,Hương,24.08.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076299,Lương,Thanh,Hương,16.03.1982,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076300,Nghiêm,Thị,Hương,15.03.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076301,Nguyễn,Thanh,Hương,24.05.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076302,Nguyễn,Thị,Hương,25.10.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076303,Nguyễn,Thị Thu,Hương,28.07.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076305,Phạm,Thị Thu,Hương,06.12.1988,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073924,Lô,Đức,Kiên,08.11.1986,Quản trị Tài chính K52,ĐC ĐHCQ 2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20071614,Nguyễn,Văn,Kiên,15.04.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076307,Trương,Quang,Khánh,11.11.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20061759,Nguyễn,Trọng,Lâm,25.04.1987,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076310,Hà,Thị Bích,Liên,10.11.1988,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076311,Nguyễn,Hương,Liên,14.10.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076312,Phùng,Thị Ngọc,Liên,16.06.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20071712,Luyện,Thị Thuỳ,Linh,15.01.1990,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20071731,Nguyễn,Thị Thuỳ,Linh,04.12.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076315,Phạm,Hoàng Khánh,Linh,12.09.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20071799,Nguyễn,Văn,Long,25.09.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076318,Bùi,Thanh,Mai,18.07.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076319,Nguyễn,Thanh,Mai,13.01.1989,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076320,Tạ,Thị Trà,My,29.05.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076321,Hồ,Đắc,Nam,28.10.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076322,Nguyễn,Thị,Năm,05.08.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076323,Dương,Thị Quỳnh,Nga,11.07.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072060,Nhữ,Hoa Quỳnh,Nga,08.06.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076325,Nguyễn,Hoàng,Ngân,18.07.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072067,Nguyễn,Sơn,Ngân,21.07.1989,Quản trị Tài chính K52,ĐC ĐHCQ 2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076327,Nguyễn,Thị Kim,Ngân,10.02.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076324,Nguyễn,Thị Kim,Ngân,03.11.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076328,Nguyễn,Quang,Nghĩa,24.01.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076329,Phạm,Hồng,Ngọc,30.09.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076331,Trần,Thị Bích,Ngọc,10.05.1982,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076332,Vũ,Thị Bích,Ngọc,03.03.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076333,Đinh,Thị Hồng,Nhung,07.11.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076334,Nguyễn,Hồng,Nhung,28.07.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076335,Vũ,Hồng,Nhung,15.04.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076344,Nguyễn,Minh,Phượng,05.05.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076338,Đỗ,Thị Minh,Phương,01.06.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076341,Nguyễn,Thị Thu,Phương,22.06.1986,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076342,Phạm,Thanh,Phương,29.12.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076343,Trần,Thị,Phương,05.11.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076345,Nguyễn,Trường,Quang,28.08.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076346,Nguyễn,Thị Lệ,Quyên,27.06.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076347,Nguyễn,Thuý,Quỳnh,07.10.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20062669,Đỗ,Ngọc,Sơn,&nbsp;,Quản trị Tài chính K52,TCKT-2007,574,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20062667,Đồng,Thanh,Sơn,07.03.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072458,Ngô,Đức,Sơn,05.10.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076348,Nguyễn,Hoàng,Sơn,16.03.1985,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076349,Nguyễn,Thanh,Sơn,17.11.1986,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20062705,Nguyễn,Thanh,Sơn,14.06.1987,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076350,Nguyễn,Văn,Sơn,25.06.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072496,Lê,Ngọc,Tài,01.11.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076352,Lê,Thị,Tâm,26.10.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076353,Nguyễn,Thị,Tâm,29.03.1986,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20063697,Trần,Việt,Tú,26.02.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073876,Trần,Anh,Tuấn,03.12.1989,Quản trị Tài chính K52,TCKT-2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20063593,Đỗ,Minh,Tùng,04.09.1987,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073324,Nguyễn,Minh,Tùng,11.04.1990,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073248,Lê,Minh,Tuyên,16.10.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073402,Nguyễn,Thị,Tươi,15.09.1989,Quản trị Tài chính K52,TCKT-2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076379,Nguyễn,Thị Thu,Tươi,20.06.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076361,Trần,Thị Kim,Thu,02.12.1986,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076362,Dương,Thị,Thuận,13.10.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072813,Vũ,Thị,Thuý,23.10.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076364,An,Thị Bích,Thuỷ,15.02.1987,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076365,Đinh,Thu,Thuỷ,02.03.1986,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072818,Lê,Thị,Thuỷ,26.10.1989,Quản trị Tài chính K52,TCKT-2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076366,Nguyễn,Thanh,Thuỷ,20.10.1988,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076367,Nguyễn,Thị Bích,Thuỷ,07.09.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20072822,Nguyễn,Thị Thanh,Thuỷ,03.11.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076371,Nguyễn,Thị Thu,Trang,03.02.1986,Quản trị Tài chính K52,TCKT-2007 (CH),576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076372,Trần,Đức,Trọng,21.07.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20076380,Trần,Thu,Vân,23.10.1987,Quản trị Tài chính K52,TCKT-2007 (CH),578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20063785,Phạm,Đức,Vinh,05.10.1988,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073505,Trần,Quang,Võ,25.05.1989,Quản trị Tài chính K52,TCKT-2007,576,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20073517,Nguyễn,Quang,Vũ,05.02.1989,Quản trị Tài chính K52,TCKT-2007,578,Quản trị Tài chính K52,Viện Kinh tế &amp; Quản lý,52
+20070044,Dương,Văn,An,24.02.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20050010,Lê,Thị Thuý,An,&nbsp;,Hoá Dầu 1 K52,Máy hóa-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070132,Phan,Hải,Anh,04.12.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070369,Trần,Ngọc,Công,05.06.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070428,Nguyễn,Mạnh,Cường,10.12.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070463,Trần,Cao,Cường,20.10.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,571,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20050364,Nguyễn,Quang,Cương,20.10.1986,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070295,Nguyễn,Phú,Chiến,18.10.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20063859,Choijilsuren,&nbsp;,Delgermurun,&nbsp;,Hoá Dầu 1 K52,CNHCHdầu-2007,574,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070560,Nguyễn,Bảo,Dũng,17.11.1989,Hoá Dầu 1 K52,ĐC ĐHCQ 2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20060522,Nguyễn,Tiến,Duy,05.12.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20060692,Bùi,Vũ,Đại,07.03.1987,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070746,Phạm,Sỹ,Đăng,11.08.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20060781,Nguyễn,Văn,Đinh,16.02.1987,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070772,Trần,Hải,Định,22.04.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070778,Ngô,Gia,Đoàn,24.10.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20076002,Nguyễn,Viết,Đông,14.01.1984,Hoá Dầu 1 K52,CNHCHdầu (CH)-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20060874,Nguyễn,Trọng,Đức,02.08.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071029,Trần,Quốc,Hải,20.01.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071065,Bùi,Thị,Hằng,13.04.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071050,Trần,Thị Thu,Hạnh,20.05.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071078,Nguyễn,Trọng,Hiền,02.09.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071162,Nguyễn,Đình,Hiệp,25.02.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071101,Ngô,Văn,Hiếu,05.07.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071179,Nguyễn,Văn,Hiệu,25.05.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20051303,Lại,Văn,Hoàn,02.09.1987,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20041367,Nguyễn,Hoàng,Huy,03.08.1986,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071501,Nguyễn,Thị Thanh,Hương,19.03.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071502,Phạm,Thị,Hương,01.11.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20041631,Nguyễn,Lê,Khánh,02.08.1986,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071549,Nguyễn,Văn,Khánh,20.08.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071657,Dương,Sơn,Lâm,06.11.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20061833,Nguyễn,Văn,Linh,10.06.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071736,Nguyễn,Việt,Linh,22.08.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20061867,Bùi,Thế,Long,&nbsp;,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20062036,Trương,Bá,Lương,14.07.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071875,Võ,Thanh,Lương,07.10.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071891,Nguyễn,Thanh,Mai,14.05.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20071904,Lương,Đạt,Mạnh,01.07.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20052309,Hồ,Thị,Nga,15.07.1986,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072068,Nguyễn,Thị,Ngân,12.09.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20073737,Nguyễn,Trọng,Nghĩa,19.05.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072195,Đinh,Ngọc,Phan,29.01.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072212,Trịnh,Quốc,Phong,02.04.1988,Hoá Dầu 1 K52,ĐC ĐHCQ 2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20073768,Võ,Văn,Quang,20.12.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072363,Nguyễn,Hữu,Quyền,12.05.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072451,Lại,Văn,Sơn,25.05.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+2007CT15,Nguyễn,Ngọc,Sơn,&nbsp;,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072485,Trịnh,Văn,Sung,11.01.1990,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072903,Vũ,Văn,Tiến,23.11.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20063433,Đào,Đình,Tuấn,23.12.1987,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20053580,Hồ,Nghĩa,Tuấn,10.09.1987,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20073150,Lê,Anh,Tuấn,19.03.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20073158,Lê,Văn,Tuấn,04.11.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20053610,Nguyễn,Hữu,Tuấn,11.07.1987,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20073258,Đinh,Quang,Tuyền,20.04.1989,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20072767,Cao,Chí,Thọ,18.06.1990,Hoá Dầu 1 K52,CNHCHdầu-2007,578,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20063729,Dương,Ngọc,Việt,20.09.1988,Hoá Dầu 1 K52,CNHCHdầu-2007,576,Hoá Dầu 1 K52,Viện Kỹ thuật Hoá học,52
+20070079,Lê,Hoàng,Anh,28.12.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073572,Lê,Tuấn,Anh,26.11.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,574,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070097,Nguyễn,Đức,Anh,17.02.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070358,Lê,Thành,Công,17.07.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070464,Trần,Mạnh,Cường,16.08.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070345,Hàn,Trịnh,Chuyên,19.03.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20076001,Nguyễn,Đình,Dung,22.03.1985,Hoá Dầu 2 K52,CNHCHdầu (CH)-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20040545,Lê,Chí,Dũng,06.09.1986,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070569,Nguyễn,Ngọc,Dũng,06.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070573,Nguyễn,Thế,Dũng,23.07.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,571,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20040645,Lê,Minh,Dương,08.03.1986,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070703,Trịnh,Hoàng,Đạo,19.08.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,574,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20050895,Nguyễn,Quang,Đức,04.08.1987,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070871,Nguyễn,Việt,Đức,11.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070880,Phùng,Văn,Đức,11.07.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070893,Đinh,Thị Thanh,Giang,19.07.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20060938,Nguyễn,Văn,Hai,04.10.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071161,Nguyễn,Đình,Hiệp,07.02.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071306,Cát,Quang,Huy,04.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071637,Nguyễn,Mạnh,Kiềm,19.11.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071624,Phạm,Trung,Kiên,11.11.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071910,Nguyễn,Đình,Mạnh,13.05.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,574,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071986,Phạm,Thị,Mịn,30.10.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20071999,Điền,Nguyễn Tùng,Nam,19.11.1989,Hoá Dầu 2 K52,ĐC ĐHCQ 2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072000,Đoàn,Ngọc,Nam,09.02.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072004,La,Tiến,Nam,02.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20042058,Mai,Đức Phương,Nam,&nbsp;,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072020,Nghiêm,Minh,Nam,14.02.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20062229,Phạm,Văn,Năng,17.12.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072083,Phạm,Quang,Nghĩa,13.08.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20052357,Hoàng,Xuân,Ngọc,22.09.1987,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072131,Nguyễn,Hạnh,Nguyên,04.05.1990,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072135,Vũ,Văn,Nguyên,25.12.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072287,Nguyễn,Thị,Phượng,14.03.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072261,Nguyễn,Huy,Phương,28.08.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072278,Trần,Việt,Phương,08.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20062491,Nguyễn,Huy,Quang,17.09.1988,Hoá Dầu 2 K52,ĐC ĐHCQ 2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072309,Vũ,Minh,Quang,03.01.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073773,Nguyễn,Thị,Quế,16.12.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20062594,Lường,Đình,Quyết,28.05.1987,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072394,Hoàng,Như,Quỳnh,19.12.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072532,Trần,Minh,Tân,19.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073373,Nguyễn,Ngọc,Tú,22.02.1988,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073376,Nguyễn,Thanh,Tú,23.01.1990,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073163,Lương,Văn,Tuấn,16.04.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073870,Nguyễn,Minh,Tuấn,01.02.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073276,Bùi,Hoàng,Tùng,08.02.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20043578,Hoàng,Văn,Tùng,12.07.1986,Hoá Dầu 2 K52,CNHCHdầu-2007,576,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072731,Lê,Khắc,Thiện,15.04.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073834,Phan,Đức,Thịnh,08.07.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20072984,Nguyễn,Đức,Tre,24.02.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073062,Trần,Ngọc,Trung,16.09.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073462,Phạm,Đức,Việt,24.12.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,573,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20073479,Lại,Thế,Vinh,05.12.1989,Hoá Dầu 2 K52,CNHCHdầu-2007,578,Hoá Dầu 2 K52,Viện Kỹ thuật Hoá học,52
+20070122,Nguyễn,Tuấn,Anh,23.07.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070113,Nguyễn,Tuấn,Anh,02.12.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20060140,Võ,Hải,Anh,&nbsp;,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20060372,Vũ,Đức,Công,22.06.1985,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20060424,Nguyễn,Cao,Cường,09.10.1985,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070288,Đoàn,Quyết,Chiến,28.09.1989,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070331,Ngô,Văn,Chung,17.05.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20040328,Nguyễn,Hà,Chung,12.09.1986,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070333,Nguyễn,Ngọc,Chung,14.06.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070486,Vũ,Đức,Doanh,07.05.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070593,Nguyễn,Văn,Dũng,17.05.1987,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20050503,Hoàng,Hữu,Duy,07.07.1986,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070638,Lê,Văn,Dương,25.02.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20060783,Trịnh,Văn,Đính,&nbsp;,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20040842,Nguyễn,Văn,Đức,08.08.1985,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20061217,Nguyễn,Huy,Hiệu,08.08.1988,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20041389,Trần,Mạnh,Huy,&nbsp;,Cơ học BD và Cán KL K52,Cán-2007,571,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20061777,Lưu,Ngọc,Lễ,02.11.1988,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20062258,Nguyễn,Tuấn,Nghĩa,15.10.1985,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20052376,Phạm,Văn,Ngọc,25.04.1982,Cơ học BD và Cán KL K52,ĐC ĐHCQ 2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20062289,Phùng,Đình,Ngọc,01.06.1987,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20072136,Cao,Quang,Nguyện,06.08.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20072188,Nguyễn,Văn,Oai,09.09.1989,Cơ học BD và Cán KL K52,Cán-2007,574,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076019,Nguyễn,Đình,Phúc,19.09.1985,Cơ học BD và Cán KL K52,Cán-2007 (CH),578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20062522,Vũ,Văn,Quảng,05.07.1985,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20072343,Phạm,Xuân,Quân,28.08.1989,Cơ học BD và Cán KL K52,ĐC ĐHCQ 2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063200,Nguyễn,Việt,Tiến,13.06.1988,Cơ học BD và Cán KL K52,Cán-2007,574,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063424,Vũ,Anh,Tuân,31.07.1987,Cơ học BD và Cán KL K52,ĐC ĐHCQ 2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063584,Chu,Văn,Tùng,14.03.1987,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063705,Trần,Văn,Tư,23.02.1984,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20072638,Trần,Nguyễn,Thái,01.03.1989,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20052885,Nguyễn,Văn,Thanh,25.09.1985,Cơ học BD và Cán KL K52,Cán-2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063115,Trần,Đức,Thuận,19.09.1987,Cơ học BD và Cán KL K52,ĐC ĐHCQ 2007,576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076024,Trần,Ngọc,Thủy,20.04.1987,Cơ học BD và Cán KL K52,Cán-2007 (CH),576,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063356,Nguyễn,Thọ,Trung,07.02.1987,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063789,Vũ,Quang,Vinh,06.02.1984,Cơ học BD và Cán KL K52,Cán-2007,578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076427,Trần,Quang,Vũ,10.09.1986,Cơ học BD và Cán KL K52,Cán-2007 (CH),578,Cơ học BD và Cán KL K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070197,Phí,Công,Bằng,14.12.1987,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070261,Trần,Văn,Bộ,05.10.1989,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20050254,Nguyễn,Hà,Châu,24.12.1987,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070309,Lê,Khắc,Chinh,21.11.1988,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070601,Nguyễn,Xuân,Dũng,14.11.1989,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070520,Phạm,Ngọc,Duy,30.09.1989,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070522,Quách,Đình,Duy,23.01.1989,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070630,Cao,Văn,Dương,18.05.1989,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070709,Đồng,Tiến,Đạt,01.10.1989,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070736,Đỗ,Đức,Đăng,22.09.1988,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20070824,Chu,Minh,Đức,06.07.1989,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20030914,Đào,Tiến,Giang,04.10.1985,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20071054,Bùi,Trọng,Hậu,09.12.1989,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20061458,Lương,Viết,Hùng,&nbsp;,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20071407,Nguyễn,Mạnh,Hùng,16.06.1989,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20061397,Nguyễn,Văn,Huy,11.10.1988,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20071511,Đào,Văn,Hưởng,20.10.1989,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20061988,Vũ,Thành,Long,13.12.1988,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076016,Nguyễn,Thị,Luyến,27.10.1987,Nhiệt luyện K52,VLH-2007 (CH),578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20041973,Chu,Văn,Minh,&nbsp;,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20072017,Lương,Thanh,Nam,19.05.1989,Nhiệt luyện K52,VLH-2007,571,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076017,Vũ,Hạnh,Ngân,27.02.1988,Nhiệt luyện K52,VLH-2007 (CH),578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20073754,Lê,Anh,Phú,09.09.1989,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20052627,Mạc,Như,Quân,08.11.1987,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20062674,Hoàng,Bích,Sơn,03.03.1987,Nhiệt luyện K52,ĐC ĐHCQ 2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063452,Hoàng,Minh,Tuấn,14.11.1988,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20043588,Lê,Thanh,Tùng,27.07.1986,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20062913,Nguyễn,Hùng,Thái,21.12.1988,Nhiệt luyện K52,VLH-2007,574,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076023,Phan,Thị Hà,Thanh,04.09.1988,Nhiệt luyện K52,VLH-2007 (CH),576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20072621,Vũ,Văn,Thành,06.10.1989,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063062,Nguyễn,Văn,Thịnh,09.10.1987,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063065,Phạm,Trường,Thịnh,28.12.1987,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20053461,Nguyễn,Viết,Trung,15.03.1987,Nhiệt luyện K52,VLH-2007,576,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20076027,Nguyễn,Bích,Vân,07.08.1988,Nhiệt luyện K52,VLH-2007 (CH),578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52
+20063808,Nguyễn,Duy,Vũ,15.03.1987,Nhiệt luyện K52,VLH-2007,578,Nhiệt luyện K52,Viện Khoa học và Kỹ thuật Vật liệu,52

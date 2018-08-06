@@ -1,0 +1,591 @@
+
+20083583,Lê,Ngọc,Anh,25.06.1990,KSTN Công Nghệ Thông Tin K53,ĐC KSTN 2008,576,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20070004,Nguyễn,Đức,Anh,29.04.1989,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,576,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20080124,Triệu,Tuấn,Anh,11.03.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20080143,Trần,Hoàng,Bá,01.05.1990,KSTN Công Nghệ Thông Tin K53,ĐC KSTN 2008,574,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20080189,Bùi,Đức,Bình,26.09.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,574,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20080321,Nguyễn,Hoàng,Công,09.02.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20070478,Trịnh,Công,Diện,05.11.1989,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20080495,Nguyễn,Dương Trung,Dũng,10.09.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20081216,Nguyễn,Mạnh,Hùng,24.03.1990,KSTN Công Nghệ Thông Tin K53,ĐC KSTN 2008,574,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20081445,Nguyễn,Duy,Kiên,04.06.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20081465,Lê,Hồng,Kỳ,30.11.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20081648,Trần,Văn,Luân,10.10.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20082064,Ngô,Ngọc,Quang,31.05.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20082078,Phạm,Minh,Quang,01.09.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,574,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20083586,Lê,Ngọc,Sơn,16.12.1990,KSTN Công Nghệ Thông Tin K53,ĐC KSTN 2008,576,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20082300,Nguyễn,Bá,Tâm,09.10.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,571,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20082643,Lê,Mạnh,Tiến,01.10.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20083584,Nguyễn,Trọng,Toàn,14.06.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20082479,Nguyễn,Toàn,Thắng,14.12.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20082631,Đinh,Xuân,Thực,03.01.1990,KSTN Công Nghệ Thông Tin K53,ĐC KSTN 2008,574,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20083220,Trử,Bá,Vương,30.08.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20083238,Nguyễn,Viết,Xuân,11.02.1990,KSTN Công Nghệ Thông Tin K53,KSTN CNTT2008,578,KSTN Công Nghệ Thông Tin K53,Trung tâm Đào tạo Tài năng,53
+20080123,Trần,Vũ Đức,Anh,30.10.1989,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20080157,Nguyễn,Đăng,Bản,17.10.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20080220,Vũ,Văn,Bộ,17.10.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,571,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20080653,Trần,&nbsp;,Đăng,07.07.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20083612,Đặng,Dương Minh,Đức,15.03.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20081012,Đỗ,Danh,Hoà,04.01.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2009,574,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20081271,Lê,Ngọc,Hưng,29.06.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20081336,Đỗ,Văn,Hưởng,07.06.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20081710,Tạ,Đức,Mạnh,15.02.1990,KSTN Cơ Điện Tử K53,KSTN Cơ ĐT (CH) 2008,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20081977,Trần,Tất,Phong,23.11.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082132,Trần,Văn,Quốc,09.07.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082273,Nguyễn,Văn,Sự,02.07.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082638,Giáp,Văn,Tiến,22.07.1990,KSTN Cơ Điện Tử K53,KSTN Cơ ĐT (CH) 2008,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20083547,Hoàng,Anh,Tuấn,15.09.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082982,Đặng,Sơn,Tùng,10.09.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082399,Nguyễn,Xuân,Thành,10.07.1990,KSTN Cơ Điện Tử K53,ĐC KSTN 2008,574,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082815,Nguyễn,Minh,Trúc,24.02.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20082801,Phạm,Toàn,Trung,10.04.1990,KSTN Cơ Điện Tử K53,KSTN CĐT2008 ,578,KSTN Cơ Điện Tử K53,Trung tâm Đào tạo Tài năng,53
+20083581,Đỗ,Hoàng,Anh,13.03.1990,KSTN Điện Tử Viễn Thông K53,ĐC KSTN 2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080112,Trần,Hải,Anh,05.09.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080164,Nguyễn,Văn,Bảo,22.08.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080444,Đào,Bá,Duy,31.10.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080702,Lê,Thế,Đồng,03.06.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080703,Nguyễn,Đắc,Đồng,01.07.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080835,Trần,Ngọc,Hà,06.05.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080907,Lê,Đình,Hân,28.12.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080950,Nguyễn,Văn,Hiếu,06.01.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,571,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20081663,Nguyễn,Ngọc,Lưỡng,06.04.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083585,Nguyễn,Tất,Nghĩa,29.04.1990,KSTN Điện Tử Viễn Thông K53,ĐC KSTN 2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20073743,Trương,Xuân,Nhã,17.06.1989,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083430,Vương,Đình,Phong,16.06.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083056,Bùi,Văn,Tú,03.12.1990,KSTN Điện Tử Viễn Thông K53,ĐC KSTN 2008,574,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082921,Nguyễn,Anh,Tuấn,24.08.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083582,Hoàng,Thanh,Tùng,11.10.1990,KSTN Điện Tử Viễn Thông K53,ĐC KSTN 2008,574,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082968,Nguyễn,Thanh,Tuyền,03.05.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082483,Nguyễn,Xuân,Thắng,02.10.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082386,Nguyễn,Đức,Thành,14.01.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082400,Phan,Tiến,Thành,02.10.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082524,Vũ,Đức,Thiện,21.01.1990,KSTN Điện Tử Viễn Thông K53,ĐC KSTN 2008,574,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083517,Nguyễn,Lê,Thương,04.03.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20082847,Phạm,Thị,Trường,22.01.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083579,Trần,Anh,Vũ,08.10.1990,KSTN Điện Tử Viễn Thông K53,ĐC KSTN 2008,576,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20083574,Nguyễn,Hồ Như,ý,16.04.1990,KSTN Điện Tử Viễn Thông K53,KSTN ĐTVT2008,578,KSTN Điện Tử Viễn Thông K53,Trung tâm Đào tạo Tài năng,53
+20080569,Phạm,Tùng,Dương,30.05.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,578,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20080700,Phan,Đình,Đông,12.08.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,578,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20080959,Phương,Văn,Hiếu,23.10.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,578,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20081058,Nguyễn,Huy,Hoàng,23.08.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,578,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082659,Nguyễn,Văn,Tiến,22.06.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,578,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082962,Bùi,Tiên,Tung,04.09.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,578,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20083188,Trần,Xuân,Vịnh,23.03.1990,Vật liệu kim loại (CTTT) K53,Vật liệu kim loại CTTT K53,571,Vật liệu kim loại (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20080719,Dương,Việt,Đức,20.07.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20080864,Nguyễn,Đăng,Hải,01.10.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20081091,Mai,Tiến,Hòa,07.05.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20081236,Phạm,Văn,Hùng,07.09.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20083382,Nguyễn,Văn,Kiên,25.03.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20081736,Nguyễn,Đức,Minh,19.05.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082001,Ngô,Văn,Phúc,20.08.1988,Vi điện tử (CTTT) K53,VĐT CTTT 2008,571,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082021,Hồ,Bích,Phương,15.04.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,576,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082124,Trần,Minh,Quân,16.04.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082236,Nguyễn,Đăng,Sơn,11.08.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20083022,Nguyễn,Thanh,Tùng,15.06.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082410,Trần,Công,Thành,17.05.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082816,Bùi,Xuân,Trụ,01.07.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20082781,Nguyễn,Cảnh,Trung,30.12.1990,Vi điện tử (CTTT) K53,VĐT CTTT 2008,578,Vi điện tử (CTTT) K53,Trung tâm Đào tạo Tài năng,53
+20087001,Phạm,Văn,Mẫn,30.06.1987,KS2K53CNTT,CNTT (KS2)-2008,571,KS2K53CNTT,Viện Công nghệ Thông tin và Truyền thông,53
+20060072,Nguyễn,Ngọc Tuấn,Anh,19.06.1988,Tin Pháp K53,ĐC P 2007,576,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080408,Trịnh,Mạnh,Cường,12.10.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080239,Lê,Hải,Châu,09.01.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080505,Nguyễn,Thanh,Dũng,11.01.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080531,Trần,Trung,Dũng,11.11.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080538,Vũ,Hà,Dũng,14.11.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080739,Ngô,Xuân,Đức,19.02.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080956,Phạm,Minh,Hiếu,13.08.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081085,Vũ,Huy,Hoàng,11.10.1990,Tin Pháp K53,Tin Pháp 2008,576,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081490,Phan,Trọng,Lâm,25.09.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083391,Hoàng,Tuấn,Linh,22.04.1990,Tin Pháp K53,Tin Pháp 2008,576,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081586,Mai,Minh,Long,14.12.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081613,Phùng,Đức,Long,15.10.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081795,Hoàng,Tuấn,Nam,20.02.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081851,Nguyễn,Phương,Nga,26.09.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081872,Trần,Minh,Nghĩa,20.05.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082251,Nguyễn,Trường,Sơn,16.12.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082276,Phạm,Đình,Sỹ,15.05.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083076,Nguyễn,Ngọc,Tú,10.07.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082423,Ngô,Văn,Thái,10.08.1990,Tin Pháp K53,Tin Pháp 2008,576,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082364,Đào,Duy,Thành,27.01.1990,Tin Pháp K53,Tin Pháp 2008,571,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082577,Nguyễn,Văn,Thuấn,18.01.1990,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083132,Lê,Minh,Việt,13.01.1991,Tin Pháp K53,Tin Pháp 2008,578,Tin Pháp K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080068,Nguyễn,Quỳnh,Anh,24.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080074,Nguyễn,Tuấn,Anh,01.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080113,Trần,Nhật,Anh,28.10.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080126,Trịnh,Thị Lan,Anh,16.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080131,Vũ,Hoàng,Anh,26.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080136,Lại,Ngọc,Ánh,27.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083260,Dương,Lê,Bắc,10.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080156,Phạm,Quốc,Báu,04.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080180,Nguyễn,Tiến,Biên,01.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080227,Bùi,Đức,Cảnh,25.11.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083673,Ngô,Chí,Công,14.06.1989,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080322,Nguyễn,Huy,Công,05.01.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080332,Phạm,Thành,Công,18.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080355,Bùi,Đình,Cường,01.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080370,Lê,Đình,Cường,11.01.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083630,Son,&nbsp;,Chanso Vannarith,21.01.1987,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080252,Lê,Minh,Chiến,31.01.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083267,Hoàng,Công,Chính,14.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080294,Nguyễn,Đức,Chung,19.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080308,Trần,Đình,Chương,28.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080529,Trần,Đức,Dũng,26.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080461,Phùng,Vũ Nhật,Duy,31.01.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080555,Nguyễn,Hùng,Dương,18.02.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080584,Nguyễn,Ngọc,Đại,05.04.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080602,Đinh,Thành,Đạt,11.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080604,Hoàng,Lễ,Đạt,22.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080660,Nguyễn,Quang,Điện,27.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080751,Nguyễn,Quý,Đức,19.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083315,Trần,Khắc Anh,Đức,20.04.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080787,Dương,Trường,Giang,27.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080855,Hoàng,Trọng,Hải,12.11.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080867,Nguyễn,Minh,Hải,01.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083676,Nguyễn,Tuấn,Hải,02.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080875,Nguyễn,Trọng,Hải,27.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20071019,Nguyễn,Văn,Hải,28.01.1989,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080931,Đinh,Đức,Hiếu,04.05.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080941,Nguyễn,Trọng,Hiếu,20.05.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20080946,Nguyễn,Trung,Hiếu,25.01.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081009,Đàm,Văn,Hoà,06.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081020,Nguyễn,Văn,Hoà,28.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083343,Đinh,Việt,Hoàng,10.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081074,Tô,Đông,Hoàng,19.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081075,Tô,Xuân,Hoàng,16.04.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083360,Nguyễn,Đình,Hùng,24.05.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081217,Nguyễn,Mạnh,Hùng,26.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081250,Vũ,Mạnh,Hùng,24.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081125,Đỗ,Đức,Huy,25.10.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081131,Lê,Bá,Huy,19.11.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081154,Nguyễn,Thế,Huy,18.12.1990,Truyền thông mạng K53,TTM - 2008,571,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081258,Đỗ,Công,Hưng,14.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081260,Hà,Duy,Hưng,15.04.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081279,Nguyễn,Khánh,Hưng,02.01.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081323,Ninh,Thị,Hương,10.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081320,Nguyễn,Thị Liên,Hương,08.05.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081436,Đỗ,Văn,Kiên,13.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081452,Nguyễn,Trung,Kiên,26.11.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083631,Lean,&nbsp;,KimLeang,05.09.1986,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083677,Nguyễn,Văn,Khánh,07.12.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081414,Nguyễn,Việt,Khôi,08.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081530,Nguyễn,Đức,Linh,20.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081534,Nguyễn,Hoài,Linh,09.11.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081535,Nguyễn,Hoàng,Linh,07.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081676,Nguyễn,Văn,Lực,30.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20086102,Lê ,Văn,Luyện,04.11.1989,Truyền thông mạng K53,TTM (CH)-2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081667,Vũ,Thanh,Lượng,25.12.1987,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081743,Nguyễn,Hồng,Minh,17.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081745,Nguyễn,Nhật,Minh,10.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081815,Nguyễn,Hoàng,Nam,13.04.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081819,Nguyễn,Lê Hoài,Nam,15.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083678,Vũ,Văn,Nam,20.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081867,Nguyễn,Trung,Nghĩa,21.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081891,Lê,Văn,Ngọc,27.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081912,Lê,Văn,Nguyễn,27.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083429,Phan,Việt,Phong,20.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083431,Trần,Đức,Phú,16.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20081999,Lương,Ngọc,Phúc,23.05.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082044,Trần,Viết,Phước,20.09.1990,Truyền thông mạng K53,TTM - 2008,571,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083435,Phan,Đình,Phương,12.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083674,Trung,Thành,Phương,09.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082067,Nguyễn,Đức,Quang,25.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082082,Thân,Văn,Quang,21.11.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082129,Vũ,Trung,Quân,10.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082178,Hoàng,Ngọc,Quý,26.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083632,Chhoeum,&nbsp;,SamBo,26.06.1986,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082241,Nguyễn,Hồng,Sơn,22.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082252,Nguyễn,Văn,Sơn,01.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082312,Đỗ,Ngọc,Tân,30.09.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082329,Trịnh,Duy,Tân,04.03.1991,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082663,Phạm,Minh,Tiến,23.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082700,Nguyễn,Duy,Toàn,28.04.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082712,Tống,Văn,Toàn,30.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082715,Trần,Văn,Toàn,06.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082725,Chu,Xuân,Toản,05.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083058,Đào,Thị Lan,Tú,28.12.1989,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082869,Bùi,Anh,Tuấn,03.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082919,Nguyễn,Anh,Tuấn,18.01.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083550,Nguyễn,Bá,Tuấn,28.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082947,Phạm,Minh,Tuấn,27.06.1990,Truyền thông mạng K53,TTM - 2008,576,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082977,Cao,Kỷ,Tùng,29.10.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083100,Nguyễn,Văn,Tư,05.10.1989,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082439,Nguyễn,Văn,Thạch,24.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082448,Bùi,Đình,Thắng,20.05.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082475,Nguyễn,Quang,Thắng,27.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082368,Đỗ,Duy,Thành,17.08.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082383,Nguyễn,Duy,Thành,30.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082595,Đỗ,Thị Lâm,Thuỳ,27.06.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083672,Nguyễn,Huy,Trung,03.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082804,Trần,Thành,Trung,05.03.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20082846,Phan,Văn,Trường,22.02.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083139,Nguyễn,Hoàng,Việt,03.10.1983,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083167,Lương,Thế,Vinh,18.12.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20083182,Cao,Hà,Vĩnh,18.07.1990,Truyền thông mạng K53,TTM - 2008,578,Truyền thông mạng K53,Viện Công nghệ Thông tin và Truyền thông,53
+20149880,Phạm,Vũ,Linh,01.12.1995,&nbsp;,CN-Điện(HT) K58,574,Cơ điện tử B K53,Viện Cơ khí,53
+20080097,Phan,Tuấn,Anh,01.03.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080389,Nguyễn,Mạnh,Cường,30.11.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20083614,Đinh,Văn,Chiến,17.09.1988,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080532,Trần,Văn,Dũng,06.09.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080453,Nguyễn,Quang,Duy,08.03.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080654,Trần,&nbsp;,Đăng,13.06.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080710,Nguyễn,Văn,Độ,28.09.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080753,Nguyễn,Tiến,Đức,14.09.1989,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080838,Mai,Văn,Hào,05.01.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20080992,Phạm,Văn,Hiệp,10.05.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081219,Nguyễn,Quang,Hùng,13.10.1990,Chế tạo máy 4 K53,CTM-2008,576,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081230,Nguyễn,Văn,Hùng,19.07.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081245,Trần,Việt,Hùng,02.08.1990,Chế tạo máy 4 K53,CTM-2008,576,Chế tạo máy 4 K53,Viện Cơ khí,53
+20086126,Đặng,Đình,Hường,26.08.1986,Chế tạo máy 4 K53,CTM (CH)-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081432,Đào,Đức,Kiên,14.08.1989,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081351,Bùi,Văn,Khai,12.07.1988,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081420,Trần,Tuấn,Khởi,08.04.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081707,Nguyễn,Văn,Mạnh,28.12.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20086128,Nguyễn,Văn,Minh,28.10.1989,Chế tạo máy 4 K53,CTM (CH)-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20086129,Nguyễn,Trường,Nam,20.08.1988,Chế tạo máy 4 K53,CTM (CH)-2008,576,Chế tạo máy 4 K53,Viện Cơ khí,53
+20081976,Trần,Tấn,Phong,14.11.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082158,Đaò,Huy,Quỳnh,08.01.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082249,Nguyễn,Thế,Sơn,27.12.1988,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20086143,Trần,Thanh,Tú,10.02.1987,Chế tạo máy 4 K53,CTM (CH)-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20083559,Trần,Văn,Tuấn,20.10.1989,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082863,Lê,Đình,Tuân,12.10.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20083016,Nguyễn,Minh,Tùng,13.06.1990,Chế tạo máy 4 K53,CTM-2008,571,Chế tạo máy 4 K53,Viện Cơ khí,53
+20083052,Vũ,Thanh,Tùng,01.01.1991,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082377,Lưu,Đình,Thành,10.03.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082502,Đặng,Đình,Thế,22.06.1989,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082607,Nguyễn,Văn,Thùy,19.05.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20082623,Nguyễn,Huy,Thưởng,13.05.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20083172,Nguyễn,Thì,Vinh,22.04.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20083217,Nguyễn,Sinh,Vương,01.11.1990,Chế tạo máy 4 K53,CTM-2008,578,Chế tạo máy 4 K53,Viện Cơ khí,53
+20060117,Phạm,Văn,Anh,24.06.1987,Máy chính xác K53,CKCX&amp;QH-2008,574,Máy chính xác K53,Viện Cơ khí,53
+20080621,Nguyễn,Thế,Đạt,02.08.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20080638,Trần,Tiến,Đạt,04.07.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20080637,Trần,Thành,Đạt,20.04.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20080779,Vũ,Hồng,Đức,08.08.1990,Máy chính xác K53,CKCX&amp;QH-2008,571,Máy chính xác K53,Viện Cơ khí,53
+20083324,Trịnh,Thanh,Hải,19.10.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20081000,Nguyễn,Quốc,Hiệu,28.04.1990,Máy chính xác K53,CKCX&amp;QH-2008,576,Máy chính xác K53,Viện Cơ khí,53
+20081330,Trịnh,Đức,Hường,12.08.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20081451,Nguyễn,Trung,Kiên,23.08.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20081371,Lê,Minh,Khánh,01.05.1990,Máy chính xác K53,CKCX&amp;QH-2008,574,Máy chính xác K53,Viện Cơ khí,53
+20081475,Đồng,Minh,Lãng,26.06.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20081719,Bùi,Quang,Minh,29.07.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20081835,Phạm,Văn,Nam,15.04.1989,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082063,Ngô,Anh,Quang,16.06.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082660,Nguyễn,Xuân,Tiến,06.10.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082692,Đặng,Hải,Toàn,06.10.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082926,Nguyễn,Mạnh,Tuấn,25.05.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20083663,Nguyễn,Văn,Tuấn,25.03.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082973,Tạ,Văn,Tuyến,12.11.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082969,Nguyễn,Thanh,Tuyền,18.11.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082452,Dương,Đức,Thắng,05.06.1990,Máy chính xác K53,CKCX&amp;QH-2008,576,Máy chính xác K53,Viện Cơ khí,53
+20082372,Hoàng,Minh,Thành,16.10.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082355,Nguyễn,Văn,Thao,05.05.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082576,Mai,Công,Thuấn,08.05.1989,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20082800,Phạm,Nghĩa,Trung,26.07.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20083195,Hoàng,Anh,Vũ,04.08.1990,Máy chính xác K53,CKCX&amp;QH-2008,578,Máy chính xác K53,Viện Cơ khí,53
+20087004,Phạm,Văn,Kiên,01.07.1985,KS2K53 ÔTÔ,Ôtô&amp;XCD (KS2)-2008,576,KS2K53 ÔTÔ,Viện Cơ khí Động lực,53
+20087011,Nguyễn,Đức,Quang,26.12.1988,KS2K53 ÔTÔ,Ôtô&amp;XCD (KS2)-2008,571,KS2K53 ÔTÔ,Viện Cơ khí Động lực,53
+20080264,Phạm,Văn,Chiến,01.03.1989,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20080431,Nguyễn,Viết,Duẩn,15.01.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20080759,Nguyễn,Xuân,Đức,27.09.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20081033,Ninh,Đình,Hoàn,27.11.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20081249,Vũ,Đình,Hùng,17.04.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20081311,Trần,Tuấn,Hưng,01.06.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20081899,Nguyễn,Thị,Ngọc,19.05.1989,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20082703,Nguyễn,Khánh,Toàn,04.08.1990,CN Dệt K53,CND - 2008,576,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20083558,Trần,Kim,Tuấn,12.09.1989,CN Dệt K53,CND - 2008,571,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20082527,Ngô,Văn,Thiệu,10.12.1988,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20082530,Bùi,Văn,Thịnh,09.05.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20082555,Cấn,Văn,Thọ,24.07.1990,CN Dệt K53,CND - 2008,578,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20072789,Lê,Đức,Thuận,27.09.1989,CN Dệt K53,CND - 2008,576,CN Dệt K53,Viện Dệt may - Da giầy và Thời trang,53
+20083277,Cao,Việt,Cường,29.07.1990,CN May và Thời trang K53,CNMTT-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086144,Nguyễn ,Thị,Giang,28.09.1987,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20041223,Nguyễn,Xuân,Hoà,&nbsp;,CN May và Thời trang K53,CNMTT-2008,576,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086145,Nguyễn Thị ,Thanh,Hoài,11.12.1989,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20081063,Nguyễn,Ngọc,Hoàng,06.02.1990,CN May và Thời trang K53,CNMTT-2008,576,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086146,Phan ,Mạnh,Hùng,29.09.1988,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20081136,Lê,Văn,Huy,24.03.1990,CN May và Thời trang K53,CNMTT-2008,576,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20081266,Lại,Quốc,Hưng,25.08.1989,CN May và Thời trang K53,CNMTT-2008,576,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086147,Nguyễn Thị ,Hà,My,02.08.1989,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086148,Lê ,Thị,Ngân,03.04.1989,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086149,Đỗ ,Thị,Nguyệt,20.09.1988,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086150,Lê Thị ,Kiều,Oanh,07.10.1989,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20081949,Nguyễn,Thị,Oanh,01.03.1990,CN May và Thời trang K53,CNMTT-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20082003,Nguyễn,Quang Thiên,Phúc,06.10.1990,CN May và Thời trang K53,CNMTT-2008,573,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20083561,Lê,Thanh,Tùng,26.07.1990,CN May và Thời trang K53,CNMTT-2008,576,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20083048,Trần,Văn,Tùng,06.07.1990,CN May và Thời trang K53,CNMTT-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086152,Vũ ,Văn,Thạnh,17.09.1987,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20072749,Lê,Văn,Thịnh,24.07.1988,CN May và Thời trang K53,CNMTT-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086153,Phạm ,Thị,Thịnh,21.07.1988,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086154,Nguyễn ,Thị,Thu,21.03.1989,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20086155,Nguyễn,Thị,Trang,02.09.1989,CN May và Thời trang K53,CNMTT (CH)-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20082823,Đỗ,Lê Thế,Trường,11.10.1990,CN May và Thời trang K53,CNMTT-2008,578,CN May và Thời trang K53,Viện Dệt may - Da giầy và Thời trang,53
+20087003,Nguyễn,Đắc Quỳnh,Anh,11.10.1985,KS2K53HTĐ,Hệ thống điện (KS2)-2008,571,KS2K53HTĐ,Viện Điện,53
+20080035,Hoàng,Tuấn,Anh,12.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20080077,Nguyễn,Tuấn,Anh,08.06.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20080084,Nguyễn,Tuấn,Anh,23.07.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20080082,Nguyễn,Tuấn,Anh,13.09.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080091,Nguyễn,Văn,Anh,18.10.1989,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20083256,Trần,Đình,Anh,26.09.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080121,Trần,Tuấn,Anh,26.06.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080153,Trần,Xuân,Bách,24.10.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080207,Nguyễn,Thanh,Bình,14.09.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080374,Ngô,Văn,Cường,08.05.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080400,Phạm,Văn,Cường,02.07.1989,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080275,Phí,Công,Chí,10.05.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080266,Trần,Đức,Chiến,10.03.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080513,Nguyễn,Văn,Dũng,28.10.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080600,Đào,Văn,Đạt,07.12.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080788,Đặng,Đức,Giang,10.01.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20080807,Trần,&nbsp;,Giang,12.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20060957,Mai,Xuân,Hà,04.08.1985,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20086021,Trần ,Khắc,Hảo,05.07.1988,Kỹ thuật đo K53,Kỹ thật đo (CH) 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080980,Lê,Dụng,Hiệp,06.05.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081055,Nguyễn,Huy,Hoàng,10.08.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,573,Kỹ thuật đo K53,Viện Điện,53
+20081066,Nguyễn,Thanh,Hoàng,02.12.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081099,Nguyễn,Tiến,Học,02.12.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081222,Nguyễn,Tuấn,Hùng,07.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081231,Nguyễn,Văn,Hùng,25.08.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081115,Cao,Văn,Huy,21.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081177,Nguyễn,Thị,Huyền,21.12.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081328,Nguyễn,Thị,Hường,17.03.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081362,Trịnh,Tuấn,Khanh,11.10.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,574,Kỹ thuật đo K53,Viện Điện,53
+20081505,Phạm,Xuân,Lập,25.07.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081560,Trần,Văn,Linh,19.12.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20081591,Nguyễn,Hoàng,Long,29.09.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081713,Trịnh,Quốc,Mạnh,18.05.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081777,Vũ,Phạm Hải,Minh,27.06.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081858,Nguyễn,Trang,Nghiêm,16.04.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081958,Lê,Học,Phong,12.04.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081964,Nguyễn,Công,Phong,01.04.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20081979,Vũ,Văn,Phong,07.10.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083439,Đinh,Trọng,Quang,01.10.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20083445,Phan,Hoàng,Quân,20.04.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082191,Bùi,Quang,Sáng,14.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20052790,Nguyễn,Thanh,Sơn,&nbsp;,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082310,Đặng,Văn,Tân,16.06.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082654,Nguyễn,Tràng,Tiến,23.12.1989,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083086,Phạm,Ngọc,Tú,17.02.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083091,Trần,Quang,Tú,01.08.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082923,Nguyễn,Đắc,Tuấn,28.07.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082955,Trần,Quốc,Tuấn,19.08.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083012,Nguyễn,Đức,Tùng,27.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20083028,Nguyễn,Thanh,Tùng,26.01.1991,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082466,Nguyễn,Danh,Thắng,29.03.1989,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083508,Phan,Đức,Thắng,06.02.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083484,Nguyễn,Kim,Thành,28.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083490,Phạm,Quốc,Thành,19.02.1988,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20082512,Nguyễn,Đức,Thiệm,&nbsp;,Kỹ thuật đo K53,Kỹ thật đo 2008,576,Kỹ thuật đo K53,Viện Điện,53
+20082560,Mai,Chí,Thọ,09.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20082618,Bùi,Phi,Thường,21.11.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,574,Kỹ thuật đo K53,Viện Điện,53
+20083121,Hoàng,Danh,Viên,22.03.1985,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083184,Trần,Văn,Vĩnh,19.06.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20083222,Hà,Văn,Vượng,04.03.1990,Kỹ thuật đo K53,Kỹ thật đo 2008,578,Kỹ thuật đo K53,Viện Điện,53
+20080100,Phạm,Lê,Anh,17.10.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080192,Dương,Văn,Bình,28.07.1990,Điện tử 3 K53,DTVT-2008,576,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20086047,Nguyễn ,Văn,Bình,01.04.1988,Điện tử 3 K53,DTVT (CH)-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080217,Bùi,Ngọc,Bổng,04.05.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20086048,Lê ,Quang,Cường,11.09.1987,Điện tử 3 K53,DTVT (CH)-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080278,Bùi,Đức,Chính,11.08.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080298,Nguyễn,Thành,Chung,20.01.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080478,Đoàn,Hữu,Dũng,31.07.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080494,Nguyễn,Anh,Dũng,10.02.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20080918,Nguyễn,Thị,Hiền,15.06.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081041,Đoàn,Minh,Hoàng,02.09.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20086056,Trịnh ,Xuân,Hùng,05.09.1989,Điện tử 3 K53,DTVT (CH)-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081327,Nguyễn,Thị,Hường,06.05.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081518,Hoàng,Ngọc,Linh,04.10.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20086059,Nguyễn ,Thành,Long,18.11.1986,Điện tử 3 K53,DTVT (CH)-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081698,Nguyễn,Đức,Mạnh,09.08.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081714,Vũ,Huy,Mạnh,24.06.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081813,Nguyễn,Hoàng,Nam,01.11.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20086062,Nguyễn ,Trọng,Nam,20.04.1987,Điện tử 3 K53,DTVT (CH)-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20081938,Đặng,Duy,Ninh,19.12.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082026,Nguyễn,Duy,Phương,27.06.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20086068,Nghiêm ,Minh,Sơn,05.04.1988,Điện tử 3 K53,DTVT (CH)-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082268,Vũ,Công,Sơn,16.08.1990,Điện tử 3 K53,DTVT-2008,576,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083473,Hoàng,Sỹ,Tân,04.06.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083070,Nguyễn,Đình,Tú,09.06.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083090,Trần,Ngọc,Tú,14.11.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082998,Hoàng,Văn,Tùng,04.01.1990,Điện tử 3 K53,DTVT-2008,573,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083015,Nguyễn,Mạnh,Tùng,12.08.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083046,Trần,Thanh,Tùng,25.09.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082537,Đỗ,Phúc,Thịnh,30.06.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082612,Nguyễn,Văn,Thụ,26.05.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082737,Lê,Thị Huyền,Trang,08.12.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082742,Phạm,Thu,Trang,03.02.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083533,Hồ,Đức,Trung,05.01.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082779,Lưu,Quang,Trung,12.04.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082794,Nguyễn,Toàn,Trung,28.01.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20082842,Nguyễn,Văn,Trường,19.07.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083543,Nguyễn,Văn,Trường,13.08.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083169,Nguyễn,Ngọc,Vinh,22.01.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083189,Nguyễn,Hữu,Võ,26.07.1989,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083230,Phùng,Ngọc,Vững,31.12.1990,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20083234,Bùi,Thị,Xuân,21.07.1989,Điện tử 3 K53,DTVT-2008,578,Điện tử 3 K53,Viện Điện tử - Viễn thông,53
+20087009,Đỗ,Thanh,Bình,12.04.1984,KS2K53ĐTVT,DTVT (KS2)-2008,576,KS2K53ĐTVT,Viện Điện tử - Viễn thông,53
+20087007,Trần,Hải,Nam,08.03.1988,KS2K53ĐTVT,DTVT (KS2)-2008,576,KS2K53ĐTVT,Viện Điện tử - Viễn thông,53
+20087014,Nguyễn,Tuấn,Tài,24.08.1983,KS2K53ĐTVT,DTVT (KS2)-2008,576,KS2K53ĐTVT,Viện Điện tử - Viễn thông,53
+20087015,Nguyễn,Trung,Tiến,18.05.1983,KS2K53ĐTVT,DTVT (KS2)-2008,571,KS2K53ĐTVT,Viện Điện tử - Viễn thông,53
+20087010,Lê,Minh,Tuấn,30.04.1983,KS2K53ĐTVT,DTVT (KS2)-2008,576,KS2K53ĐTVT,Viện Điện tử - Viễn thông,53
+20080093,Nguyễn,Việt,Anh,21.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20080209,Nguyễn,Văn,Bình,10.07.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083278,Đỗ,Đức,Cường,05.03.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20080424,Đoàn,Văn,Diệu,05.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20080511,Nguyễn,Văn,Dũng,09.04.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,576,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20080669,Nguyễn,Ngọc,Điệp,01.07.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20080845,Chu,Đại,Hải,25.03.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20080891,Vũ,Minh,Hải,13.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083331,Ngô,Trung,Hiếu,11.03.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081002,Vũ,Quang,Hiệu,01.12.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083346,Nguyễn,Bá,Hoàng,30.01.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083591,Lâm,Văn,Hùng,06.07.1989,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081209,Nguyễn,&nbsp;,Hùng,09.09.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081343,Nguyễn,Đình,Hữu,03.03.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081114,Bùi,Quang,Huy,23.02.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081155,Nguyễn,Văn,Huy,23.06.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081294,Nguyễn,Văn,Hưng,17.06.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081416,Vũ,Hoàng,Khôi,22.10.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081543,Nguyễn,Tuấn,Linh,12.10.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083589,Lâm,Mạnh,Long,19.09.1988,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081671,Hoàng,Trọng,Lực,11.03.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20081799,Lê,Huy,Nam,20.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082027,Nguyễn,Hoàng,Phương,09.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082104,Ngô,Minh,Quân,02.09.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,576,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082242,Nguyễn,Huỳnh,Sơn,21.09.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082317,Nguyễn,Hữu,Tân,10.06.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082681,Ngụy,Phan,Tín,20.09.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20072953,Tống,Huy,Toàn,14.11.1989,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082716,Trịnh,Ngọc,Toàn,22.02.1989,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083062,Hoàng,Văn,Tú,11.01.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,576,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083072,Nguyễn,Minh,Tú,06.12.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,576,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082873,Cấn,Văn,Tuấn,26.10.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083597,Lộc,Minh,Tuấn,05.06.1988,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082953,Trần,Anh,Tuấn,07.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083008,Ngô,Sơn,Tùng,24.04.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,571,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082965,Nguyễn,Văn,Tuyên,10.10.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082470,Nguyễn,Hữu,Thắng,16.11.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082432,Nguyễn,Đình,Thảo,01.08.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082542,Nguyễn,Đức,Thịnh,01.01.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20082746,Nguyễn,Văn,Tràng,20.04.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20083155,Trần,Bằng,Việt,07.02.1990,Kỹ thuật y sinh K53,Kỹ thuật y sinh 2008,578,Kỹ thuật y sinh K53,Viện Điện tử - Viễn thông,53
+20149880,Phạm,Vũ,Linh,01.12.1995,&nbsp;,CN-Điện(HT) K58,574,KS2K53TCKT,Viện Kinh tế &amp; Quản lý,53
+20080333,Phạm,Văn,Công,11.11.1989,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080375,Nguyễn,Bá,Cường,19.11.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080345,Đỗ,Văn,Cương,12.08.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083609,Vi,Thị,Chung,11.11.1989,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080455,Nguyễn,Văn,Duy,21.08.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080471,Hồ,Thế,Duyệt,24.01.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080547,Lê,Doãn,Dương,27.01.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080551,Mai,Văn,Dương,06.01.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080588,Bùi,Trọng,Đạo,06.10.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083312,Nguyễn,Trung,Đức,15.12.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080780,Vũ,Minh,Đức,16.10.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080808,Trần,Hà,Giang,23.01.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080889,Trần,Văn,Hải,09.02.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080926,Bùi,Trung,Hiếu,23.12.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083334,Phạm,Công,Hiếu,28.03.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20081032,Nguyễn,Thị,Hoàn,20.01.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083396,Nguyễn,Bá,Lộc,29.04.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20081857,Hoàng,Văn,Nghi,14.11.1989,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20081917,Nguyễn,Chí,Nhân,17.09.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20081962,Lê,Duy,Phong,24.11.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20081968,Nguyễn,Ngọc,Phong,14.03.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20081991,Phạm,Tuấn,Phú,17.12.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082126,Trịnh,Văn,Quân,17.02.1988,CN Silicat K53,Silicat 2008,571,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082127,Vũ,Hồng,Quân,01.09.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082326,Phạm,Văn,Tân,05.10.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082870,Bùi,Anh,Tuấn,22.10.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083546,Hà,Khắc,Tuấn,12.09.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083003,Lê,Thanh,Tùng,26.09.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083017,Nguyễn,Quang,Tùng,14.10.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083031,Nguyễn,Văn,Tùng,09.12.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083039,Quách,Thanh,Tùng,16.08.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082462,Lê,Vinh,Thắng,10.12.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082494,Trần,Minh,Thắng,20.12.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082389,Nguyễn,Long,Thành,13.02.1990,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082395,Nguyễn,Tưởng,Thành,10.10.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082506,Nguyễn,Ngọc,Thể,20.01.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20082858,Trần,Đoàn,Trưởng,10.05.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083177,Phạm,Hoàng,Vinh,01.04.1990,CN Silicat K53,Silicat 2008,578,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20083228,Hà,Đức,Vững,17.04.1988,CN Silicat K53,Silicat 2008,576,CN Silicat K53,Viện Kỹ thuật Hoá học,53
+20080013,Bùi,Đình,Anh,18.07.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,574,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080130,Vũ,Đức,Anh,16.06.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083262,Tô,Bá,Bắc,27.08.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080200,Nguyễn,Danh,Bình,09.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080349,Nghiêm,Đình,Cương,06.08.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080496,Nguyễn,Đình,Dũng,07.03.1989,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,576,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083288,Nguyễn,Tiến,Dũng,20.08.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20086391,Trịnh,Đình,Đại,28.10.1988,Máy &amp; TB Nhiệt - Lạnh K53,M&amp;TBNL (CH)-2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080713,Bùi,Minh,Đức,19.05.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080904,Phạm,Hồng,Hạnh,12.01.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080894,Nguyễn,Hoàng,Hảo,28.08.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080951,Nguyễn,Văn,Hiếu,11.11.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20080957,Phạm,Văn,Hiếu,11.06.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081011,Đặng,Văn,Hoà,21.11.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081036,Bùi,Văn,Hoàng,02.11.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20086298,Phạm ,Văn,Hoằng,12.03.1989,Máy &amp; TB Nhiệt - Lạnh K53,M&amp;TBNL (CH)-2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081176,Hoàng,Thị Thu,Huyền,02.09.1989,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,571,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081470,Đỗ,Bá,Kỷ,01.03.1989,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,576,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081385,Nguyễn,Văn,Khánh,16.08.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081634,Trịnh,Ngọc,Lợi,10.12.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081804,Nguyễn,Duy,Nam,30.05.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20081922,Đào,Xuân,Nhất,23.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082031,Nguyễn,Minh,Phương,08.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082060,Lê,Văn,Quang,18.04.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082077,Phan,Phú,Quang,16.09.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082101,Lê,Văn,Quân,06.09.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082111,Nguyễn,Hữu,Quân,02.09.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082183,Vũ,Ngọc,Quý,17.07.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,574,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082152,Nguyễn,Tiến,Quyết,18.01.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083455,Nguyễn,Văn,Quyết,04.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082165,Nguyễn,Ngọc,Quỳnh,22.11.1989,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082202,Phạm,Trường,Sinh,15.12.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082284,Nguyễn,Đức,Tài,30.04.1989,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082321,Nguyễn,Ngọc,Tân,30.09.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082637,Đào,Văn,Tiến,08.11.1989,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082651,Nguyễn,Minh,Tiến,07.05.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083064,Lê,Công,Tú,28.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,576,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082906,Lê,Minh,Tuấn,04.11.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,576,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083038,Phạm,Văn,Tùng,15.06.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082477,Nguyễn,Tiến,Thắng,14.11.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082486,Phạm,Công,Thắng,15.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,576,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20082855,Vũ,Văn,Trường,06.02.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083201,Nguyễn,Đức,Vũ,29.10.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20086299,Nguyễn ,Thị,Xuân,18.05.1989,Máy &amp; TB Nhiệt - Lạnh K53,M&amp;TBNL (CH)-2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20083239,Phạm,Trường,Xuân,15.12.1990,Máy &amp; TB Nhiệt - Lạnh K53,Máy &amp; TB NL 2008,578,Máy &amp; TB Nhiệt - Lạnh K53,Viện Khoa học và Công nghệ Nhiệt Lạnh,53
+20086176,Dương ,Văn,Công,10.05.1988,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20080909,Nguyễn,Đăng,Hậu,18.05.1990,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20081208,Ngô,Xuân,Hùng,05.06.1990,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc 2008,571,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20086178,Đỗ ,Văn,Huy,20.03.1988,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20086183,Nguyễn ,Văn,Hưng,&nbsp;,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20083666,Nguyễn,Hữu,Miên,01.01.1989,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20086189,Quách ,Ngọc,Sơn,12.07.1987,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,576,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20082331,Lưu,Viết,Tấn,09.02.1990,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20086198,Nguyễn ,Sơn,Tùng,12.05.1988,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20086191,Nguyễn ,Viết,Thành,26.09.1986,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,578,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20086195,Nguyễn ,Hoàng,Trung,21.07.1987,Vật liệu và công nghệ Đúc K53,Vật liệu và CN Đúc (CH) 2008,576,Vật liệu và công nghệ Đúc K53,Viện Khoa học và Kỹ thuật Vật liệu,53
+20085146,Lê,Thị Thuỳ,Anh,05.04.1989,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085009,Trần,Thị Vân,Anh,12.03.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085030,Phạm,Trang,Hà,10.01.1990,D04K53,AVCNKHKT&amp;CN 2008,574,D04K53,Viện Ngoại ngữ,53
+20085051,Phạm,Việt Kim,Hương,18.03.1989,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085053,Tô,Thị,Hương,05.12.1989,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085057,Bùi,Trung,Kiên,20.10.1990,D04K53,AVCNKHKT&amp;CN 2008,576,D04K53,Viện Ngoại ngữ,53
+20085065,Lê,Anh,Long,13.09.1990,D04K53,AVCNKHKT&amp;CN 2008,576,D04K53,Viện Ngoại ngữ,53
+20085068,Nguyễn,Thành,Luân,13.10.1989,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085090,Nguyễn,Thị Hồng,Nhung,17.10.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085100,Lê,Ngọc,Tân,05.02.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085116,Đỗ,Quý,Tiến,10.06.1989,D04K53,AVCNKHKT&amp;CN 2008,576,D04K53,Viện Ngoại ngữ,53
+20085115,Nguyễn,Thị Thuỷ,Tiên,07.05.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085106,Nguyễn,Lợi Quốc,Thắng,21.09.1990,D04K53,AVCNKHKT&amp;CN 2008,571,D04K53,Viện Ngoại ngữ,53
+20085101,Trần,Thị,Thanh,15.06.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085107,Ngô,Thị,Thu,04.10.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085111,Lê,Thị,Thuỷ,03.11.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085114,Bùi,Thị,Thương,15.09.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085122,Vũ,Ngọc,Trang,24.11.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085123,Vũ,Thị Thuỳ,Trang,18.10.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085125,Lê,Xuân,Trường,30.07.1989,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085126,Lưu,Quang,Trưởng,17.04.1990,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20085141,Trần,Thị,Yến,18.08.1989,D04K53,AVCNKHKT&amp;CN 2008,578,D04K53,Viện Ngoại ngữ,53
+20080042,Lê,Ngọc Tú,Anh,10.02.1990,Vật lý tin học K53,Vật lý tin học -2008,578,Vật lý tin học K53,Viện Vật lý kỹ thuật,53
+20080351,Phạm,Đình,Cương,12.02.1990,Vật lý tin học K53,Vật lý tin học -2008,571,Vật lý tin học K53,Viện Vật lý kỹ thuật,53
+20086380,Bùi,Văn,Vỹ,27.10.1989,Vật lý tin học K53,Vật lý tin học (CH) -2008,578,Vật lý tin học K53,Viện Vật lý kỹ thuật,53
